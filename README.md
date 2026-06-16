@@ -101,58 +101,6 @@
 
 </div>
 
-<br>
 
-### `GET /skills` · `200 OK`
 
-```json
-{
-  "languages": ["Java", "TypeScript", "JavaScript", "Python"],
-  "frameworks": ["Spring Boot", "React", "Angular", "Django"],
-  "databases": ["MySQL", "PostgreSQL"],
-  "tools": ["Docker", "Linux", "Git"]
-}
-```
 
-### `GET /projects/current` · `200 OK`
-
-```json
-{
-  "name": "Cervical Cancer Vaccination Management System",
-  "status": "in_development",
-  "stack": ["Java", "Spring Boot", "React", "MySQL"],
-  "goal": "Improve vaccination tracking and outreach for healthcare providers"
-}
-```
-
-### `POST /contact` · `202 Accepted`
-
-```json
-{
-  "channel": "email",
-  "address": "geeemmanuel1702@gmail.com",
-  "note": "queued — average response time within 24h"
-}
-```
-
-<br>
-
-### Changelog
-
-```
-v1.0.0       declared CS major, learned core programming fundamentals
-v2.0.0       shipped first Java + Spring Boot projects
-v2.5.0       added React + TypeScript to the stack
-v3.0.0       building: Cervical Cancer Vaccination Management System
-v3.1.0-beta  learning Django, deepening React patterns   ← you are here
-```
-
-<br>
-
-<div align="center">
-
-```
-$ echo "thanks for stopping by" && open mailto:geeemmanuel1702@gmail.com
-```
-
-</div>
