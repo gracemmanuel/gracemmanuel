@@ -88,14 +88,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Geminolah&style=flat-square&color=2F81F7" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gracemmanuel&style=flat-square&color=2F81F7" alt="Profile views" />
 </p>
 
 <p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
 
 <div align="center">
 
-<img src="./assets/terminal-banner.svg" alt="Terminal showing GET /about response: name Geminolah, role Software Engineer, status open to collaborate" width="100%">
+<img src="./assets/terminal-banner.svg" alt="Terminal showing GET /about response: name gracemmanuel, role Software Engineer, status open to collaborate" width="100%">
 
 <sub>base url: <code>https://github.com/Geminolah</code> · uptime: still compiling · latency: depends on the coffee</sub>
 
