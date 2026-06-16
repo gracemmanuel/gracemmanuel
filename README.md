@@ -97,7 +97,7 @@
 
 <img src="./assets/terminal-banner.svg" alt="Terminal showing GET /about response: name gracemmanuel, role Software Engineer, status open to collaborate" width="100%">
 
-<sub>base url: <code>https://github.com/Geminolah</code> · uptime: still compiling · latency: depends on the coffee</sub>
+<sub>base url: <code>https://github.com/gracemmanuel</code> · uptime: still compiling · latency: depends on the coffee</sub>
 
 </div>
 
