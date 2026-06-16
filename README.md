@@ -84,7 +84,7 @@
 <p align="center">
   <a href="mailto:geeemmanuel1702@gmail.com">Email</a> ·
   <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> ·
-  <a href="https://github.com/Geminolah">GitHub</a>
+  <a href="https://github.com/gracemmanuel">GitHub</a>
 </p>
 
 <p align="center">
