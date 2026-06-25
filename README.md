@@ -16,7 +16,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Computer Science student with a strong foundation in software engineering principles
-- 💻 Focused on **Java**, **Spring Boot**, **React**, **TypeScript**, and **Angular**
+- 💻 Focused on **Spring Boot**, **Angular**, **TypeScript**, and **React**
 - 🌱 Currently deep-diving into **Django** and advanced **React** patterns
 - 🔭 Building a **Cervical Cancer Vaccination Management System** — a health-tech platform aimed at improving vaccination tracking and outreach
 - 📚 Passionate about **Software Development**, **Data Science**, and using tech for social impact
