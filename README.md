@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer & Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;React+%2B+TypeScript+Enthusiast;Learning+Django+%26+React;Building+Real-World+Health-Tech+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;Angular+%2B+TypeScript+Enthusiast;Learning+Django+%26+React;Building+Real-World+Health-Tech+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
