@@ -74,8 +74,8 @@ oi<h1 align="center">Hi 👋, I'm Grace Emmanuel (Geminolah)</h1>
 
 | Project | Status | Stack |
 |---|---|---|
-| Cervical Cancer Vaccination Management System | 🚧 In Progress | Java, Spring Boot, React, MySQL |
-| Django + React Learning Track | 📖 Learning | Django, React, REST APIs |
+| Electronic Signature | 🚧 In Progress | Java - Spring Boot, Angular, postgreSQL |
+| Django + React Learning Track | 📖 Learning | Django, React, GRAPHQL  |
 
 ---
 
