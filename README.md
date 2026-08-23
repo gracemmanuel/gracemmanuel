@@ -1,4 +1,4 @@
-oi<h1 align="center">Hi 👋, I'm Grace Emmanuel (Geminolah)</h1>
+<h1 align="center">Hi 👋, I'm Grace Emmanuel (Geminolah)</h1>
 <h3 align="center">A passionate Software Developer & Software Engineering Student</h3>
 
 <p align="center">
@@ -18,7 +18,7 @@ oi<h1 align="center">Hi 👋, I'm Grace Emmanuel (Geminolah)</h1>
 - 🎓 Software Engineering student with a strong foundation in software engineering principles
 - 💻 Focused on **Spring Boot**, **Angular**, **TypeScript**, and **React**
 - 🌱 Currently deep-diving into **Django** and advanced **React** patterns
-- 🔭 Building a **Vaccination Management System** — a health-tech platform aimed at improving vaccination tracking and outreach
+- 🔭 Building a **Electronic signature** — a platform aimed to help people signing their documents digitally
 - 📚 Passionate about **Software Development**, **Data Science**, and using tech for social impact
 - ⚡ Fun fact: I enjoy turning messy real-world problems into clean, maintainable systems
 
